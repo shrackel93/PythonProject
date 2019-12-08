@@ -1,0 +1,20 @@
+Energy_Use_Rank,Country,Energy_Use_Score,Energy_Use_Overall
+10,India,72.3,High
+11,Mexico,71.7,High
+18,Italy,65,High
+19,Brazil,65,High
+20,United,64.7,Medium
+26,Indonesia,61.1,Medium
+30,European,57.6,Medium
+31,Argentina,57.1,Medium
+32,France,55.6,Medium
+35,Germany,54.7,Low
+36,Japan,54.3,Low
+42,Russian,51.2,Low
+48,China,42.2,Very Low
+49,Turkey,41.8,Very Low
+52,Australia,38.1,Very Low
+55,United,32,
+58,Canada,25.2,Very Low
+59,Republic,14.7,Very Low
+60,Saudi,8.8,Very Low
